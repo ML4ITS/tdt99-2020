@@ -25,9 +25,10 @@ The course will focus on modern machine learning for the analysis of univariate 
 
 ### Topic 3: GAN for Time Series
 - E2GAN: End-to-End Generative Adversarial Network for Multivariate Time Series Imputation
+- Time-series Generative Adversarial Networks 
+
 - Generative Adversarial Networks for Failure Prediction
 - A GAN-Based Anomaly Detection Approach for Imbalanced Industrial Time Series
-- Time-series Generative Adversarial Networks
 - MAD-GAN: Multivariate Anomaly Detection for Time Series Data with Generative Adversarial Networks
 
 ### Topic 4: Graph NN for Time Series Analysis
@@ -38,13 +39,14 @@ The course will focus on modern machine learning for the analysis of univariate 
 ### Topic 5: Unsupervised / Self-Supervised Learning for TS Analysis
 - Self-Supervised Learning for Semi-Supervised Time Series Classification
 - Adversarial Unsupervised Representation Learning for Activity Time-Series
-- Deep Multivariate Time Series Embedding Clustering via Attentive-Gated Autoencoder
 - A Deep Neural Network for Unsupervised Anomaly Detection and Diagnosis in Multivariate Time Series Data
+- (Learning Representations for Time Series Clustering)
+- (Deep Multivariate Time Series Embedding Clustering via Attentive-Gated Autoencoder)
 
 ### Topic 6: Few-Shot Learning and Transfer Learning for Data Scarcity in TS Analysis
 - Reconstruction and Regression Loss for Time-Series Transfer Learning
 - TapNet: Multivariate Time Series Classification with Attentional Prototypical Network
 - Meta-Learning for Few-Shot Time Series Classification
-- Towards a universal neural network encoder for time series
+- (Towards a universal neural network encoder for time series)
 
 
