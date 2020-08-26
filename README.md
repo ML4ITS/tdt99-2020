@@ -26,7 +26,6 @@ The course will focus on modern machine learning for the analysis of univariate 
 ### Topic 3: GAN for Time Series
 - E2GAN: End-to-End Generative Adversarial Network for Multivariate Time Series Imputation
 - Time-series Generative Adversarial Networks 
-
 - Generative Adversarial Networks for Failure Prediction
 - A GAN-Based Anomaly Detection Approach for Imbalanced Industrial Time Series
 - MAD-GAN: Multivariate Anomaly Detection for Time Series Data with Generative Adversarial Networks
