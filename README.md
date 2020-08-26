@@ -13,7 +13,7 @@ The course will focus on modern machine learning for the analysis of univariate 
 
 ## Topics
 
-### Topic 1: Forecasting for Irregular Time Series
+### Topic 1: Forecasting Irregular Time Series
 - Joint Modeling of Local and Global Temporal Dynamics for Multivariate Time Series Forecasting with Missing Values
 - Time-series Extreme Event Forecasting with Neural Networks at Uber
 - Shape and Time Distortion Loss for Training Deep Time Series Forecasting Models
