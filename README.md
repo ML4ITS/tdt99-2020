@@ -48,4 +48,28 @@ The course will focus on modern machine learning for the analysis of univariate 
 - Meta-Learning for Few-Shot Time Series Classification
 - (Towards a universal neural network encoder for time series)
 
+### Teaching approach
+The course is structure in form of set of workshops where each student will present one paper followed by group work and discussions.
+
+### Instructions for Students
+The student should prepare a 12-15 minutes presentation of the assigned paper. The presentation should focus on the following aspects of the article:
+A presentation could focus on the following aspects:
+- Motivation (why this problem is important?)
+- Methods
+- Test results
+- Conclusions
+
+### Calendar
+
+**When:** *Fridays, kl 13*, **Where:** *Zoom Meeting. Students will receive an invitation*
+
+| WEEK | Topic | 
+|:----------|:----------|
+| 39       | 1 |
+| 40       | 2 |
+| 41       | 3 |
+| 42       | 4 |
+| 43       | 5 |
+| 44       | 6 |
+
 
