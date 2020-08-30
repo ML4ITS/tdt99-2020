@@ -63,6 +63,7 @@ The student should prepare a 12-15 minutes presentatA presentation could focus o
 - Methods
 - Exaperimental Setting and Results
 - Conclusions
+
 The presentation is followed by a short discussion.
 
 ### Calendar
