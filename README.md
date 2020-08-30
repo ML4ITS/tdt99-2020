@@ -17,11 +17,14 @@ The course will focus on modern machine learning for the analysis of univariate 
 - Joint Modeling of Local and Global Temporal Dynamics for Multivariate Time Series Forecasting with Missing Values
 - Time-series Extreme Event Forecasting with Neural Networks at Uber
 - Shape and Time Distortion Loss for Training Deep Time Series Forecasting Models
+- Self-boosted Time-series Forecasting with Multi-task and Multi-view Learning
 
 ### Topic 2: Attention Mechanism for Time Series Analysis
 - Temporal pattern attention for multivariate time series forecasting
 - Modeling Extreme Events in Time Series Prediction
 - DATA-GRU: Dual-Attention Time-Aware Gated Recurrent Unit for Irregular Multivariate Time Series
+- Multivariate time series forecasting via attention-based encoder–decoder framework
+- Attend and Diagnose: Clinical Time Series Analysis Using Attention Models
 
 ### Topic 3: GAN for Time Series
 - E2GAN: End-to-End Generative Adversarial Network for Multivariate Time Series Imputation
@@ -34,6 +37,7 @@ The course will focus on modern machine learning for the analysis of univariate 
 - Attention Based Spatial-Temporal Graph Convolutional Networks for Traffic Flow Forecasting
 - Connecting the Dots: Multivariate Time Series Forecasting with Graph Neural Networks
 - GMAN: A Graph Multi-Attention Network for Traffic Prediction
+- Dynamic Spatial-Temporal Graph Convolutional Neural Networks for Traffic Forecasting
 
 ### Topic 5: Unsupervised / Self-Supervised Learning for TS Analysis
 - Self-Supervised Learning for Semi-Supervised Time Series Classification
