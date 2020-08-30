@@ -56,12 +56,14 @@ The course will focus on modern machine learning for the analysis of univariate 
 The course is structure in form of set of workshops where each student will present one paper followed by group work and discussions.
 
 ### Instructions for Students
-The student should prepare a 12-15 minutes presentation of the assigned paper. The presentation should focus on the following aspects of the article:
-A presentation could focus on the following aspects:
+The student should prepare a 12-15 minutes presentatA presentation could focus on the following aspects:
 - Motivation (why this problem is important?)
+- Description of the addressed problem (and challenges)
+- Related work (how is addressed the same or similar problem)
 - Methods
-- Test results
+- Exaperimental Setting and Results
 - Conclusions
+The presentation is followed by a short discussion.
 
 ### Calendar
 
