@@ -64,7 +64,7 @@ The student should prepare a 12-15 minutes presentatA presentation could focus o
 - Exaperimental Setting and Results
 - Conclusions
 
-The presentation is followed by a short discussion.
+The presentation will be followed by a short discussion.
 
 ### Calendar
 
@@ -72,11 +72,19 @@ The presentation is followed by a short discussion.
 
 | WEEK | Topic | 
 |:----------|:----------|
+| 36       | First Meeting |
 | 39       | 1 |
 | 40       | 2 |
 | 41       | 3 |
 | 42       | 4 |
 | 43       | 5 |
 | 44       | 6 |
+
+### Exam (Oral)
+
+**When:** *27.11.2020*, **Where:** *Zoom Meeting. Students will receive an invitation*
+
+
+
 
 
