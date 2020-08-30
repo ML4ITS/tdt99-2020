@@ -1,6 +1,6 @@
 # TDT99 - Modern AI for Time Series Analysis (FALL 2020)
 
-The course will focus on modern machine learning for the analysis of univariate and multivariate time series (i.e., anomaly detection, forecasting, classification, data imputation) with some focus on "irregular" time series. In particular:
+The [course](https://innsida.ntnu.no/wiki/-/wiki/Norsk/TDT99+-+Modern+Machine+Learning+for+Time+Series+Analysis) will focus on modern machine learning for the analysis of univariate and multivariate time series (i.e., anomaly detection, forecasting, classification, data imputation) with some focus on "irregular" time series. In particular:
 
 - Use of FNN, LSTM and CNN for time series modelling and forecasting.
 - Attention mechanism in LSTM-based architecture for time series forecasting.
