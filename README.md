@@ -73,8 +73,8 @@ The presentation will be followed by a short discussion.
 
 | WEEK | Topic | Students |
 |:----------|:----------|:----------|
-| 36       | First Meeting | <p> Christian L. - *Deep and Confident Prediction for Time Series at Uber* <br> () <br> () <br> () </p>|
-| 39       | 1 | <p> () <br> () <br> () <br> () </p>|
+| 36       | First Meeting | |
+| 39       | 1 | <p> Christian L. - *Deep and Confident Prediction for Time Series at Uber* <br> () <br> () <br> () </p>|
 | 40       | 2 | <p> () <br> () <br> () <br> () </p>|
 | 41       | 3 | <p> () <br> () <br> () <br> () </p>|
 | 42       | 4 | <p> () <br> () <br> () <br> () </p>|
