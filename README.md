@@ -71,22 +71,18 @@ The presentation will be followed by a short discussion.
 
 **When:** *Fridays, kl 13*, **Where:** *Zoom Meeting. Students will receive an invitation*
 
-| WEEK | Topic | 
-|:----------|:----------|
-| 36       | First Meeting |
-| 39       | 1 |
-| 40       | 2 |
-| 41       | 3 |
-| 42       | 4 |
-| 43       | 5 |
-| 44       | 6 |
+| WEEK | Topic | Students |
+|:----------|:----------|:----------|
+| 36       | First Meeting | <p> Christian L. <br> () <br> () <br> () </p>|
+| 39       | 1 | <p> () <br> () <br> () <br> () </p>|
+| 40       | 2 | <p> () <br> () <br> () <br> () </p>|
+| 41       | 3 | <p> () <br> () <br> () <br> () </p>|
+| 42       | 4 | <p> () <br> () <br> () <br> () </p>|
+| 43       | 5 | <p> () <br> () <br> () <br> () </p>|
+| 44       | 6 | <p> () <br> () <br> () <br> () </p>|
 
 ### Exam (Oral)
 
 **When:** *27.11.2020*, **Where:** *Zoom Meeting. Students will receive an invitation*
 
 ### List of Students
-
-
-
-
