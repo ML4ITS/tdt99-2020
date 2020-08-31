@@ -15,7 +15,7 @@ The [course](https://innsida.ntnu.no/wiki/-/wiki/Norsk/TDT99+-+Modern+Machine+Le
 
 ### Topic 1: Forecasting Irregular Time Series
 - Joint Modeling of Local and Global Temporal Dynamics for Multivariate Time Series Forecasting with Missing Values
-- Deep and Confident Predictionn for Time Series at Uber [Assigned to **Christian L.**]
+- Deep and Confident Predictionn for Time Series at Uber *[Assigned to **Christian L.**]*
 - Time-series Extreme Event Forecasting with Neural Networks at Uber
 - Shape and Time Distortion Loss for Training Deep Time Series Forecasting Models
 - Self-boosted Time-series Forecasting with Multi-task and Multi-view Learning
