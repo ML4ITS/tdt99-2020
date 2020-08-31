@@ -15,7 +15,7 @@ The [course](https://innsida.ntnu.no/wiki/-/wiki/Norsk/TDT99+-+Modern+Machine+Le
 
 ### Topic 1: Forecasting Irregular Time Series
 - Joint Modeling of Local and Global Temporal Dynamics for Multivariate Time Series Forecasting with Missing Values
-- Deep and Confident Prediction for Time Series at Uber *[Assigned to **Christian L.**]*
+- *Deep and Confident Prediction for Time Series at Uber* *[Assigned to **Christian L.**]*
 - Time-series Extreme Event Forecasting with Neural Networks at Uber
 - Shape and Time Distortion Loss for Training Deep Time Series Forecasting Models
 - Self-boosted Time-series Forecasting with Multi-task and Multi-view Learning
@@ -41,7 +41,7 @@ The [course](https://innsida.ntnu.no/wiki/-/wiki/Norsk/TDT99+-+Modern+Machine+Le
 - Dynamic Spatial-Temporal Graph Convolutional Neural Networks for Traffic Forecasting
 
 ### Topic 5: Unsupervised / Self-Supervised Learning for TS Analysis
-- Self-Supervised Learning for Semi-Supervised Time Series Classification  *[Assigned to **Christer B.R.**]*
+- *Self-Supervised Learning for Semi-Supervised Time Series Classification*  *[Assigned to **Christer B.R.**]*
 - Adversarial Unsupervised Representation Learning for Activity Time-Series
 - A Deep Neural Network for Unsupervised Anomaly Detection and Diagnosis in Multivariate Time Series Data
 - (Learning Representations for Time Series Clustering)
