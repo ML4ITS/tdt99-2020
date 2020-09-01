@@ -82,7 +82,7 @@ The presentation will be followed by a short discussion.
 | 44       | 6 | <p> <li>*Reconstruction and Regression Loss for Time-Series Transfer Learning* *[Assigned to  **Ask S.**]*</li> <br> <li>*TapNet: Multivariate Time Series Classification with Attentional Prototypical Network* *[Assigned to  **Herman R.**]*</li> <br> <li>*Towards a universal neural network encoder for time series* *[Assigned to  **Elen E.K.**]*</li> </p>|
 
 ### Exam (Oral)
-
+**IMPORTANT**: *In order to access to the exam the student has to present a paper in one of the workshop.*
 **When:** *27.11.2020*, **Where:** *Zoom Meeting. Students will receive an invitation*
 
 ### List of Students
