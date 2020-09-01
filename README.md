@@ -42,7 +42,7 @@ The [course](https://innsida.ntnu.no/wiki/-/wiki/Norsk/TDT99+-+Modern+Machine+Le
 
 ### Topic 5: Unsupervised / Self-Supervised Learning for TS Analysis
 - *Self-Supervised Learning for Semi-Supervised Time Series Classification*  *[Assigned to **Christer B.R.**]*
-- Adversarial Unsupervised Representation Learning for Activity Time-Series
+- *Adversarial Unsupervised Representation Learning for Activity Time-Series* *[Assigned to **Helle G.**]*
 - A Deep Neural Network for Unsupervised Anomaly Detection and Diagnosis in Multivariate Time Series Data
 - (Learning Representations for Time Series Clustering)
 - (Deep Multivariate Time Series Embedding Clustering via Attentive-Gated Autoencoder)
@@ -78,7 +78,7 @@ The presentation will be followed by a short discussion.
 | 40       | 2 | <p> () <br> () <br> () <br> () </p>|
 | 41       | 3 | <p> () <br> () <br> () <br> () </p>|
 | 42       | 4 | <p> () <br> () <br> () <br> () </p>|
-| 43       | 5 | <p> Christer B.R. - *Self-Supervised Learning for Semi-Supervised Time Series Classification* <br> () <br> () <br> () </p>|
+| 43       | 5 | <p> Christer B.R. - *Self-Supervised Learning for Semi-Supervised Time Series Classification* <br> Helle G. - *Adversarial Unsupervised Representation Learning for Activity Time-Series* <br> () <br> () </p>|
 | 44       | 6 | <p> () <br> () <br> () <br> () </p>|
 
 ### Exam (Oral)
