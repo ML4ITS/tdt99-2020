@@ -74,7 +74,7 @@ The presentation will be followed by a short discussion.
 | WEEK | Topic | Students |
 |:----------|:----------|:----------|
 | 36       | First Meeting | |
-| 39       | 1 | <p> Christian L. - *Deep and Confident Prediction for Time Series at Uber* <br> () <br> () <br> () </p>|
+| 39       | 1 | <p> <li>Joint Modeling of Local and Global Temporal Dynamics for Multivariate Time Series Forecasting with Missing Values* *[**Vemund F.**]</li> <br> <li> *Deep and Confident Prediction for Time Series at Uber* *[Assigned to **Christian L.**]*</li> <br> <li> *Shape and Time Distortion Loss for Training Deep Time Series Forecasting Models* *[**Eivind S.**]*</li> <br> <li>*Self-boosted Time-series Forecasting with Multi-task and Multi-view Learning* *[**Svein Ole M. S.**]*</li> </p>|
 | 40       | 2 | <p> () <br> () <br> () <br> () </p>|
 | 41       | 3 | <p> () <br> () <br> () <br> () </p>|
 | 42       | 4 | <p> () <br> () <br> () <br> () </p>|
