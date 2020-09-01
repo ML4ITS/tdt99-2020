@@ -75,11 +75,11 @@ The presentation will be followed by a short discussion.
 |:----------|:----------|:----------|
 | 36       | First Meeting | |
 | 39       | 1 | <p> <li>Joint Modeling of Local and Global Temporal Dynamics for Multivariate Time Series Forecasting with Missing Values* *[**Vemund F.**]</li> <br> <li> *Deep and Confident Prediction for Time Series at Uber* *[Assigned to **Christian L.**]*</li> <br> <li> *Shape and Time Distortion Loss for Training Deep Time Series Forecasting Models* *[**Eivind S.**]*</li> <br> <li>*Self-boosted Time-series Forecasting with Multi-task and Multi-view Learning* *[**Svein Ole M. S.**]*</li> </p>|
-| 40       | 2 | <p> () <br> () <br> () <br> () </p>|
-| 41       | 3 | <p> () <br> () <br> () <br> () </p>|
-| 42       | 4 | <p> () <br> () <br> () <br> () </p>|
-| 43       | 5 | <p> Christer B.R. - *Self-Supervised Learning for Semi-Supervised Time Series Classification* <br> Helle G. - *Adversarial Unsupervised Representation Learning for Activity Time-Series* <br> () <br> () </p>|
-| 44       | 6 | <p> () <br> () <br> () <br> () </p>|
+| 40       | 2 | <p> <li>*Temporal pattern attention for multivariate time series forecasting* *[Assigned to  **Henrik G.**]*</li> <br> <li>*Attend and Diagnose: Clinical Time Series Analysis Using Attention Models* *[Assigned to  **Margrethe G.**]*</li> <br> <li>*Multivariate time series forecasting via attention-based encoder–decoder framework* *[Assigned to  **Henrik F..**]*</li> <br> <li>*Modeling Extreme Events in Time Series Prediction* *[Assigned to  **Jens W.**]*</li> </p>|
+| 41       | 3 | <p> <li>*E2GAN: End-to-End Generative Adversarial Network for Multivariate Time Series Imputation* *[Assigned to  **Sigurd V.**]*</li> <br> <li>*Time-series Generative Adversarial Networks* *[Assigned to  **Claus M.**]*</li> <br> <li>*Generative Adversarial Networks for Failure Prediction* *[Assigned to  **Kristoffer G.**]*</li> <br> <li>*MAD-GAN: Multivariate Anomaly Detection for Time Series Data with Generative Adversarial Networks* *[Assigned to  **Henrik H.**]*</li> </p>|
+| 42       | 4 | <p> <li>*Attention Based Spatial-Temporal Graph Convolutional Networks for Traffic Flow Forecasting* *[Assigned to  **William K.**]*</li> <br> <li>*Connecting the Dots: Multivariate Time Series Forecasting with Graph Neural Networks* *[Assigned to  **Axel H.**]*</li> <br> <li>*GMAN: A Graph Multi-Attention Network for Traffic Prediction* *[Assigned to  **Lars B.**]*</li> </p>|
+| 43       | 5 | <p> <li>*Self-Supervised Learning for Semi-Supervised Time Series Classification*  *[Assigned to **Christer B.R.**]*</li> <br> <li>*Adversarial Unsupervised Representation Learning for Activity Time-Series* *[Assigned to **Helle G.**]*</li> <br> <li>*A Deep Neural Network for Unsupervised Anomaly Detection and Diagnosis in Multivariate Time Series Data* *[Assigned to  **Haakon J.J.**]*</li> <br> <li>*Learning Representations for Time Series Clustering* *[Assigned to  **Tage R.**]*</li> </p>|
+| 44       | 6 | <p> <li>*Reconstruction and Regression Loss for Time-Series Transfer Learning* *[Assigned to  **Ask S.**]*</li> <br> <li>*TapNet: Multivariate Time Series Classification with Attentional Prototypical Network* *[Assigned to  **Herman R.**]*</li> <br> <li>*Towards a universal neural network encoder for time series* *[Assigned to  **Elen E.K.**]*</li> </p>|
 
 ### Exam (Oral)
 
