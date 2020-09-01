@@ -13,45 +13,45 @@ The [course](https://innsida.ntnu.no/wiki/-/wiki/Norsk/TDT99+-+Modern+Machine+Le
 
 ## Topics
 
-### Topic 1: Forecasting Irregular Time Series
-- Joint Modeling of Local and Global Temporal Dynamics for Multivariate Time Series Forecasting with Missing Values
+### Topic 1: Forecasting Irregular Time Series (4)
+- *Joint Modeling of Local and Global Temporal Dynamics for Multivariate Time Series Forecasting with Missing Values* *[**Vemund F.**]*
 - *Deep and Confident Prediction for Time Series at Uber* *[Assigned to **Christian L.**]*
+- *Shape and Time Distortion Loss for Training Deep Time Series Forecasting Models* *[**Eivind S.**]*
+- *Self-boosted Time-series Forecasting with Multi-task and Multi-view Learning* *[**Svein Ole M. S.**]*
 - Time-series Extreme Event Forecasting with Neural Networks at Uber
-- Shape and Time Distortion Loss for Training Deep Time Series Forecasting Models
-- Self-boosted Time-series Forecasting with Multi-task and Multi-view Learning
 
-### Topic 2: Attention Mechanism for Time Series Analysis
-- Temporal pattern attention for multivariate time series forecasting
-- Modeling Extreme Events in Time Series Prediction
+### Topic 2: Attention Mechanism for Time Series Analysis (3)
+- *Temporal pattern attention for multivariate time series forecasting* *[Assigned to  **Henrik G.**]*
+- *Attend and Diagnose: Clinical Time Series Analysis Using Attention Models* *[Assigned to  **Margrethe G.**]*
+- *Multivariate time series forecasting via attention-based encoder–decoder framework* *[Assigned to  **Henrik F..**]*
+- *Modeling Extreme Events in Time Series Prediction* *[Assigned to  **Jens W.**]*
 - DATA-GRU: Dual-Attention Time-Aware Gated Recurrent Unit for Irregular Multivariate Time Series
-- Multivariate time series forecasting via attention-based encoder–decoder framework
-- Attend and Diagnose: Clinical Time Series Analysis Using Attention Models
 
-### Topic 3: GAN for Time Series
-- E2GAN: End-to-End Generative Adversarial Network for Multivariate Time Series Imputation
-- Time-series Generative Adversarial Networks 
-- Generative Adversarial Networks for Failure Prediction
+### Topic 3: GAN for Time Series (4)
+- *E2GAN: End-to-End Generative Adversarial Network for Multivariate Time Series Imputation* *[Assigned to  **Sigurd V.**]*
+- *Time-series Generative Adversarial Networks* *[Assigned to  **Claus M.**]*
+- *Generative Adversarial Networks for Failure Prediction* *[Assigned to  **Kristoffer G.**]*
+- *MAD-GAN: Multivariate Anomaly Detection for Time Series Data with Generative Adversarial Networks* *[Assigned to  **Henrik H.**]*
 - A GAN-Based Anomaly Detection Approach for Imbalanced Industrial Time Series
-- MAD-GAN: Multivariate Anomaly Detection for Time Series Data with Generative Adversarial Networks
 
-### Topic 4: Graph NN for Time Series Analysis
-- Attention Based Spatial-Temporal Graph Convolutional Networks for Traffic Flow Forecasting
-- Connecting the Dots: Multivariate Time Series Forecasting with Graph Neural Networks
-- GMAN: A Graph Multi-Attention Network for Traffic Prediction
+### Topic 4: Graph NN for Time Series Analysis (3)
+- *Attention Based Spatial-Temporal Graph Convolutional Networks for Traffic Flow Forecasting* *[Assigned to  **William K.**]*
+- *Connecting the Dots: Multivariate Time Series Forecasting with Graph Neural Networks* *[Assigned to  **Axel H.**]*
+- *GMAN: A Graph Multi-Attention Network for Traffic Prediction* *[Assigned to  **Lars B.**]*
 - Dynamic Spatial-Temporal Graph Convolutional Neural Networks for Traffic Forecasting
 
-### Topic 5: Unsupervised / Self-Supervised Learning for TS Analysis
+### Topic 5: Unsupervised / Self-Supervised Learning for TS Analysis (3)
 - *Self-Supervised Learning for Semi-Supervised Time Series Classification*  *[Assigned to **Christer B.R.**]*
 - *Adversarial Unsupervised Representation Learning for Activity Time-Series* *[Assigned to **Helle G.**]*
-- A Deep Neural Network for Unsupervised Anomaly Detection and Diagnosis in Multivariate Time Series Data
-- (Learning Representations for Time Series Clustering)
+- *A Deep Neural Network for Unsupervised Anomaly Detection and Diagnosis in Multivariate Time Series Data* *[Assigned to  **Haakon J.J.**]*
 - (Deep Multivariate Time Series Embedding Clustering via Attentive-Gated Autoencoder)
+- (Learning Representations for Time Series Clustering)
 
-### Topic 6: Few-Shot Learning and Transfer Learning for Data Scarcity in TS Analysis
-- Reconstruction and Regression Loss for Time-Series Transfer Learning
-- TapNet: Multivariate Time Series Classification with Attentional Prototypical Network
-- Meta-Learning for Few-Shot Time Series Classification
-- (Towards a universal neural network encoder for time series)
+### Topic 6: Few-Shot Learning and Transfer Learning for Data Scarcity in TS Analysis (3)
+- *Reconstruction and Regression Loss for Time-Series Transfer Learning* *[Assigned to  **Ask S.**]*
+- *TapNet: Multivariate Time Series Classification with Attentional Prototypical Network* *[Assigned to  **Herman R.**]*
+- *Towards a universal neural network encoder for time series* *[Assigned to  **Elen E.K.**]*
+- (Meta-Learning for Few-Shot Time Series Classification)
 
 ### Teaching approach
 The course is structure in form of set of workshops where each student will present one paper followed by group work and discussions. **All the student MUST attend the workshops**.
@@ -107,5 +107,5 @@ The presentation will be followed by a short discussion.
 - Jens W.
 - Henrik G.
 - Henrik F.
-- ?Tage R.?
-- ?Ask S.?
+- Ask S.
+- ?(Tage R.)?
