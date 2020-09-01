@@ -20,7 +20,7 @@ The [course](https://innsida.ntnu.no/wiki/-/wiki/Norsk/TDT99+-+Modern+Machine+Le
 - *Self-boosted Time-series Forecasting with Multi-task and Multi-view Learning* *[**Svein Ole M. S.**]*
 - Time-series Extreme Event Forecasting with Neural Networks at Uber
 
-### Topic 2: Attention Mechanism for Time Series Analysis (3)
+### Topic 2: Attention Mechanism for Time Series Analysis (4)
 - *Temporal pattern attention for multivariate time series forecasting* *[Assigned to  **Henrik G.**]*
 - *Attend and Diagnose: Clinical Time Series Analysis Using Attention Models* *[Assigned to  **Margrethe G.**]*
 - *Multivariate time series forecasting via attention-based encoder–decoder framework* *[Assigned to  **Henrik F..**]*
@@ -40,12 +40,12 @@ The [course](https://innsida.ntnu.no/wiki/-/wiki/Norsk/TDT99+-+Modern+Machine+Le
 - *GMAN: A Graph Multi-Attention Network for Traffic Prediction* *[Assigned to  **Lars B.**]*
 - Dynamic Spatial-Temporal Graph Convolutional Neural Networks for Traffic Forecasting
 
-### Topic 5: Unsupervised / Self-Supervised Learning for TS Analysis (3)
+### Topic 5: Unsupervised / Self-Supervised Learning for TS Analysis (4)
 - *Self-Supervised Learning for Semi-Supervised Time Series Classification*  *[Assigned to **Christer B.R.**]*
 - *Adversarial Unsupervised Representation Learning for Activity Time-Series* *[Assigned to **Helle G.**]*
 - *A Deep Neural Network for Unsupervised Anomaly Detection and Diagnosis in Multivariate Time Series Data* *[Assigned to  **Haakon J.J.**]*
+- *Learning Representations for Time Series Clustering* *[Assigned to  **Tage R.**]*
 - (Deep Multivariate Time Series Embedding Clustering via Attentive-Gated Autoencoder)
-- (Learning Representations for Time Series Clustering)
 
 ### Topic 6: Few-Shot Learning and Transfer Learning for Data Scarcity in TS Analysis (3)
 - *Reconstruction and Regression Loss for Time-Series Transfer Learning* *[Assigned to  **Ask S.**]*
@@ -108,4 +108,4 @@ The presentation will be followed by a short discussion.
 - Henrik G.
 - Henrik F.
 - Ask S.
-- ?(Tage R.)?
+- Tage R.
