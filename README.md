@@ -86,3 +86,26 @@ The presentation will be followed by a short discussion.
 **When:** *27.11.2020*, **Where:** *Zoom Meeting. Students will receive an invitation*
 
 ### List of Students
+Lars B.
+Elen E. K.
+Irene F.
+Vemund F.
+Svein Ole M. S.
+Christian L.
+Helle M. G.
+Haakon J. J.
+Christer B. R.
+Margrethe G.
+Claus M.
+Sigurd V.
+Kristoffer G.
+Henrik H.
+Eivind S.
+Herman R.
+William K.
+Axel H.
+Jens W.
+Henrik G.
+Henrik F.
+?Tage R.?
+?Ask S.?
