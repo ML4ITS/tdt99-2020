@@ -51,7 +51,7 @@ The [course](https://innsida.ntnu.no/wiki/-/wiki/Norsk/TDT99+-+Modern+Machine+Le
 - *Reconstruction and Regression Loss for Time-Series Transfer Learning* *[Assigned to  **Ask S.**]*
 - *TapNet: Multivariate Time Series Classification with Attentional Prototypical Network* *[Assigned to  **Herman R.**]*
 - *Towards a universal neural network encoder for time series* *[Assigned to  **Elen E.K.**]*
-- (Meta-Learning for Few-Shot Time Series Classification)
+- *Meta-Learning for Few-Shot Time Series Classification* [Assigned to  **Erik O.D.**]*
 
 ### Teaching approach
 The course is structure in form of set of workshops where each student will present one paper followed by group work and discussions. **All the student MUST attend the workshops**.
@@ -109,3 +109,4 @@ The presentation will be followed by a short discussion.
 - Henrik F.
 - Ask S.
 - Tage R.
+- Erik O.D.
