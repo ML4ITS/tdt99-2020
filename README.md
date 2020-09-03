@@ -47,11 +47,11 @@ The [course](https://innsida.ntnu.no/wiki/-/wiki/Norsk/TDT99+-+Modern+Machine+Le
 - *Learning Representations for Time Series Clustering* *[Assigned to  **Tage R.**]*
 - (Deep Multivariate Time Series Embedding Clustering via Attentive-Gated Autoencoder)
 
-### Topic 6: Few-Shot Learning and Transfer Learning for Data Scarcity in TS Analysis (3)
+### Topic 6: Few-Shot Learning and Transfer Learning for Data Scarcity in TS Analysis (4)
 - *Reconstruction and Regression Loss for Time-Series Transfer Learning* *[Assigned to  **Ask S.**]*
 - *TapNet: Multivariate Time Series Classification with Attentional Prototypical Network* *[Assigned to  **Herman R.**]*
 - *Towards a universal neural network encoder for time series* *[Assigned to  **Elen E.K.**]*
-- *Meta-Learning for Few-Shot Time Series Classification* [Assigned to  **Erik O.D.**]*
+- *Meta-Learning for Few-Shot Time Series Classification* *[Assigned to  **Erik O.D.**]*
 
 ### Teaching approach
 The course is structure in form of set of workshops where each student will present one paper followed by group work and discussions. **All the student MUST attend the workshops**.
@@ -79,7 +79,7 @@ The presentation will be followed by a short discussion.
 | 41       | 3 | <p> <li>*E2GAN: End-to-End Generative Adversarial Network for Multivariate Time Series Imputation* *[Assigned to  **Sigurd V.**]*</li> <br> <li>*Time-series Generative Adversarial Networks* *[Assigned to  **Claus M.**]*</li> <br> <li>*Generative Adversarial Networks for Failure Prediction* *[Assigned to  **Kristoffer G.**]*</li> <br> <li>*MAD-GAN: Multivariate Anomaly Detection for Time Series Data with Generative Adversarial Networks* *[Assigned to  **Henrik H.**]*</li> </p>|
 | 42       | 4 | <p> <li>*Attention Based Spatial-Temporal Graph Convolutional Networks for Traffic Flow Forecasting* *[Assigned to  **William K.**]*</li> <br> <li>*Connecting the Dots: Multivariate Time Series Forecasting with Graph Neural Networks* *[Assigned to  **Axel H.**]*</li> <br> <li>*GMAN: A Graph Multi-Attention Network for Traffic Prediction* *[Assigned to  **Lars B.**]*</li> </p>|
 | 43       | 5 | <p> <li>*Self-Supervised Learning for Semi-Supervised Time Series Classification*  *[Assigned to **Christer B.R.**]*</li> <br> <li>*Adversarial Unsupervised Representation Learning for Activity Time-Series* *[Assigned to **Helle G.**]*</li> <br> <li>*A Deep Neural Network for Unsupervised Anomaly Detection and Diagnosis in Multivariate Time Series Data* *[Assigned to  **Haakon J.J.**]*</li> <br> <li>*Learning Representations for Time Series Clustering* *[Assigned to  **Tage R.**]*</li> </p>|
-| 44       | 6 | <p> <li>*Reconstruction and Regression Loss for Time-Series Transfer Learning* *[Assigned to  **Ask S.**]*</li> <br> <li>*TapNet: Multivariate Time Series Classification with Attentional Prototypical Network* *[Assigned to  **Herman R.**]*</li> <br> <li>*Towards a universal neural network encoder for time series* *[Assigned to  **Elen E.K.**]*</li> </p>|
+| 44       | 6 | <p> <li>*Reconstruction and Regression Loss for Time-Series Transfer Learning* *[Assigned to  **Ask S.**]*</li> <br> <li>*TapNet: Multivariate Time Series Classification with Attentional Prototypical Network* *[Assigned to  **Herman R.**]*</li> <br> <li>*Towards a universal neural network encoder for time series* *[Assigned to  **Elen E.K.**]*</li> <li> *Meta-Learning for Few-Shot Time Series Classification* *[Assigned to  **Erik O.D.**]* </li></p>|
 
 ### Exam (Oral)
 **IMPORTANT**: *In order to access to the exam the student has to present a paper in one of the workshop.*
