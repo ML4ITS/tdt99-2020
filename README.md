@@ -57,7 +57,7 @@ The [course](https://innsida.ntnu.no/wiki/-/wiki/Norsk/TDT99+-+Modern+Machine+Le
 The course is structure in form of set of workshops where each student will present one paper followed by group work and discussions. **All the student MUST attend the workshops**.
 
 ### Instructions for Students
-The student should prepare a 12-15 minutes presentatA presentation could focus on the following aspects:
+The student should prepare a 12-15 minutes presentation focusing on the following aspects:
 - Motivation (why this problem is important?)
 - Description of the addressed problem (and challenges)
 - Related work (how is addressed the same or similar problem)
