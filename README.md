@@ -38,7 +38,7 @@ The [course](https://innsida.ntnu.no/wiki/-/wiki/Norsk/TDT99+-+Modern+Machine+Le
 - *Attention Based Spatial-Temporal Graph Convolutional Networks for Traffic Flow Forecasting* *[Assigned to  **William K.**]*
 - *Connecting the Dots: Multivariate Time Series Forecasting with Graph Neural Networks* *[Assigned to  **Axel H.**]*
 - *GMAN: A Graph Multi-Attention Network for Traffic Prediction* *[Assigned to  **Lars B.**]*
-- Dynamic Spatial-Temporal Graph Convolutional Neural Networks for Traffic Forecasting
+- Dynamic Spatial-Temporal Graph Convolutional Neural Networks for Traffic Forecasting *[Assigned to  **Dario S.**]*
 
 ### Topic 5: Unsupervised / Self-Supervised Learning for TS Analysis (4)
 - *Self-Supervised Learning for Semi-Supervised Time Series Classification*  *[Assigned to **Christer B.R.**]*
@@ -110,3 +110,4 @@ The presentation will be followed by a short discussion.
 - Ask S.
 - Tage R.
 - Erik O.D.
+- Dario S.
