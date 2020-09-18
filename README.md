@@ -34,7 +34,7 @@ The [course](https://innsida.ntnu.no/wiki/-/wiki/Norsk/TDT99+-+Modern+Machine+Le
 - *MAD-GAN: Multivariate Anomaly Detection for Time Series Data with Generative Adversarial Networks* *[Assigned to  **Henrik H.**]*
 - A GAN-Based Anomaly Detection Approach for Imbalanced Industrial Time Series
 
-### Topic 4: Graph NN for Time Series Analysis (3)
+### Topic 4: Graph NN for Time Series Analysis (4)
 - *Attention Based Spatial-Temporal Graph Convolutional Networks for Traffic Flow Forecasting* *[Assigned to  **William K.**]*
 - *Connecting the Dots: Multivariate Time Series Forecasting with Graph Neural Networks* *[Assigned to  **Axel H.**]*
 - *GMAN: A Graph Multi-Attention Network for Traffic Prediction* *[Assigned to  **Lars B.**]*
