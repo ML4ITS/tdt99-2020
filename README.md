@@ -85,6 +85,7 @@ The presentation will be followed by a short discussion.
 **IMPORTANT**: *In order to access to the exam the student has to present a paper in one of the workshop.*
 **When:** *27.11.2020*, **Where:** *Zoom Meeting. Students will receive an invitation*
 
+
 ### List of Students
 - Lars B.
 - Elen E. K.
